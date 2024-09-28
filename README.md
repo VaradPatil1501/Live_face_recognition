@@ -1,2 +1,3 @@
 # Live_face_recognition
  
+Face recognition is a computer software that may be used to recognize, track, identify, or verify human faces from an image or video taken with a digital camera. Despite great progress in face detection and identification for identity, security, and attendance applications, issues persist that limit the accuracy of the technology compared to human judgment. Among these issues are variations in the way an individual’s face appears, including various lighting settings, noise in portraits, size, and posture. Face recognition using biometrics for web browser applications is presented in this research study.
